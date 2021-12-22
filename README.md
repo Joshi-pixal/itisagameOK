@@ -1,2 +1,2 @@
-# it'sagame
+# itsagame
 Tik Tac Toe
